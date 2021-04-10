@@ -2,11 +2,7 @@
 # ET: Legacy, http://www.etlegacy.com
 # - Wolfenstein: Enemy Territory 2.60b compatible client/server
 # - based on raedwulf-et: https://bitbucket.org/tcmreastwood/raedwulf-et
-<<<<<<< HEAD
-# purple test
-=======
-#
->>>>>>> 4cff173d61164346595a620ab719451bc0339985
+# TEST COMMIT
 # Please use TABs to indent! (x4)
 #------------------------------------------------------------------------
 cmake_minimum_required(VERSION 3.10.3 FATAL_ERROR)
